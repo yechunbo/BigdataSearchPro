@@ -1,0 +1,24 @@
+2019-03-31 23:32:13 467 [ INFO ] [ serviceImpl.BulkProcessImpl ] Start handle data :EX_DISHUI_32_ZDSYQYFSZSSQK
+2019-03-31 23:32:14 602 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:32:14 673 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:32:14 680 [ INFO ] [ serviceImpl.BulkProcessImpl ] -------------------------- Finally insert number total : 100
+2019-03-31 23:32:17 195 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 1
+2019-03-31 23:32:17 840 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 2
+2019-03-31 23:32:17 845 [ INFO ] [ serviceImpl.BulkProcessImpl ] true
+2019-03-31 23:32:17 845 [ INFO ] [ serviceImpl.BulkProcessImpl ]  use time: 7s
+2019-03-31 23:34:17 650 [ INFO ] [ serviceImpl.BulkProcessImpl ] Start handle data :EX_DISHUI_32_ZDSYQYFSZSSQK
+2019-03-31 23:34:18 353 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:34:18 430 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:34:18 437 [ INFO ] [ serviceImpl.BulkProcessImpl ] -------------------------- Finally insert number total : 100
+2019-03-31 23:34:25 321 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 2
+2019-03-31 23:34:26 577 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 1
+2019-03-31 23:34:26 585 [ INFO ] [ serviceImpl.BulkProcessImpl ] true
+2019-03-31 23:34:26 586 [ INFO ] [ serviceImpl.BulkProcessImpl ]  use time: 11s
+2019-03-31 23:41:19 631 [ INFO ] [ serviceImpl.BulkProcessImpl ] Start handle data :EX_DISHUI_32_ZDSYQYFSZSSQK
+2019-03-31 23:41:20 266 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:41:20 338 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 50
+2019-03-31 23:41:20 345 [ INFO ] [ serviceImpl.BulkProcessImpl ] -------------------------- Finally insert number total : 100
+2019-03-31 23:41:26 901 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 2
+2019-03-31 23:41:28 728 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 50 , id: 1
+2019-03-31 23:41:28 735 [ INFO ] [ serviceImpl.BulkProcessImpl ] true
+2019-03-31 23:41:28 737 [ INFO ] [ serviceImpl.BulkProcessImpl ]  use time: 11s

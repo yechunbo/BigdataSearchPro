@@ -1,0 +1,113 @@
+2019-07-03 11:38:42 644 [ INFO ] [ serviceImpl.BulkProcessImpl ] isShardsAcknowledged:true
+2019-07-03 11:38:42 980 [ INFO ] [ serviceImpl.BulkProcessImpl ] Start handle data :EX_MINZHENG_02_LHDJ
+2019-07-03 11:38:56 963 [ INFO ] [ serviceImpl.BulkProcessImpl ] Mysql handle data number : 200000
+2019-07-03 11:38:57 157 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:57 520 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:57 810 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:58 081 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:58 350 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:58 659 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:58 954 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:59 189 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:38:59 470 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:04 785 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:05 144 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:13 837 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 1
+2019-07-03 11:39:15 056 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:16 232 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 2
+2019-07-03 11:39:16 365 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 3
+2019-07-03 11:39:16 478 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:16 690 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:17 728 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 4
+2019-07-03 11:39:17 982 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:18 110 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 5
+2019-07-03 11:39:18 376 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:19 569 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 6
+2019-07-03 11:39:20 724 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 7
+2019-07-03 11:39:20 753 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 8
+2019-07-03 11:39:20 826 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:21 051 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:21 287 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:22 572 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 10
+2019-07-03 11:39:22 624 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 9
+2019-07-03 11:39:22 782 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:24 115 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 11
+2019-07-03 11:39:27 068 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 12
+2019-07-03 11:39:27 546 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 13
+2019-07-03 11:39:30 357 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 15
+2019-07-03 11:39:30 363 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 14
+2019-07-03 11:39:31 328 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 16
+2019-07-03 11:39:31 365 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 18
+2019-07-03 11:39:31 442 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 17
+2019-07-03 11:39:32 061 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 20
+2019-07-03 11:39:32 111 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 19
+2019-07-03 11:39:40 258 [ INFO ] [ serviceImpl.BulkProcessImpl ] Mysql handle data number : 400000
+2019-07-03 11:39:40 330 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:40 562 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:40 805 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:41 041 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:41 294 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:41 499 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:41 744 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:41 999 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:42 238 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:42 473 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:42 672 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:52 124 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 21
+2019-07-03 11:39:53 224 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:54 133 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 23
+2019-07-03 11:39:54 267 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 22
+2019-07-03 11:39:54 373 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:54 626 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:55 189 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 24
+2019-07-03 11:39:55 437 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:55 591 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 25
+2019-07-03 11:39:55 845 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:57 866 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 30
+2019-07-03 11:39:59 000 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 26
+2019-07-03 11:39:59 001 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 27
+2019-07-03 11:39:59 001 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 28
+2019-07-03 11:39:59 001 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 29
+2019-07-03 11:39:59 022 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:59 239 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:59 436 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:39:59 670 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:03 404 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 31
+2019-07-03 11:40:06 643 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 32
+2019-07-03 11:40:07 042 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 35
+2019-07-03 11:40:07 092 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 33
+2019-07-03 11:40:07 325 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 34
+2019-07-03 11:40:09 046 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 36
+2019-07-03 11:40:09 568 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 37
+2019-07-03 11:40:09 609 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 40
+2019-07-03 11:40:09 657 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 39
+2019-07-03 11:40:09 673 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 38
+2019-07-03 11:40:12 993 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:13 235 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:13 495 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:13 691 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:13 962 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:14 218 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:14 460 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:14 658 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:14 904 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:16 179 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:16 428 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:25 873 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 41
+2019-07-03 11:40:26 126 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 10000
+2019-07-03 11:40:26 735 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 42
+2019-07-03 11:40:26 907 [ INFO ] [ serviceImpl.BulkProcessImpl ] -------------------------- Finally insert number total : 524307
+2019-07-03 11:40:26 907 [ INFO ] [ serviceImpl.BulkProcessImpl ] Try to insert data number : 4307
+2019-07-03 11:40:27 178 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 43
+2019-07-03 11:40:27 874 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 44
+2019-07-03 11:40:27 879 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 45
+2019-07-03 11:40:28 703 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 46
+2019-07-03 11:40:29 006 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 47
+2019-07-03 11:40:29 293 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 50
+2019-07-03 11:40:29 363 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 48
+2019-07-03 11:40:29 434 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 49
+2019-07-03 11:40:29 601 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 4307 , id: 53
+2019-07-03 11:40:30 663 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 51
+2019-07-03 11:40:30 842 [ INFO ] [ serviceImpl.BulkProcessImpl ] ************** Success insert data number : 10000 , id: 52
+2019-07-03 11:40:30 846 [ INFO ] [ serviceImpl.BulkProcessImpl ] true
+2019-07-03 11:40:30 846 [ INFO ] [ serviceImpl.BulkProcessImpl ]  use time: 110s

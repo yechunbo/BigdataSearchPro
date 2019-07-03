@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>课程表test</title>
+</head>
+
+
+<body>
+<div class="divForm">
+         
+    <!-- 先将索引写死 -->
+	<form action="http://hdp06:8577ex_gongshang_01v3_kydj/_search" method="get" id="myFormid">  
+	          请选择检索数据类型:  
+		   <select name="" > <!-- 先不提交该选项 -->
+	         <option th:each="playerRole:${indexList}" th:value="${playerRole}" th:text="${playerRole}" id="indexName"></option>
+	       </select>    
+		请输入关键字：<input name="q" type="text" size="22" /> 
+		<input name="" type="submit" value="检索" /> 
+	</form> 
+ </div>	
+ 
+ <div class="divTable">
+     <table border="1" width="100%" bgcolor="#e9faff" cellpadding="2">
+        <caption>课程表</caption>
+        <tr align="center">
+            <td colspan="2">时间\日期</td>
+            <td>一</td>
+            <td>二</td>
+            <td>三</td>
+            <td>四</td>
+            <td>五</td>
+        </tr>
+
+        <tr align="center">
+            <td rowspan="2">上午</td>
+            <td>9:30-10:15</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+        </tr>
+
+        <tr align="center">
+            <td>10:25-11:10</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+        </tr>
+
+        <tr>
+            <td colspan="7">&nbsp;</td>
+        </tr>
+
+        <tr align="center">
+            <td rowspan="2">下午</td>
+            <td>14:30-15:15</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+        </tr>
+
+        <tr align="center">
+            <td>15:25-16:10</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+            <td>语文</td>
+        </tr>
+    </table>
+ </div>
+</body>
+
+<style type="text/css">
+.divForm{
+   width: 1500px;
+   height: 50px;
+
+   text-align: center;/*(让div中的内容居中)*/
+   top: 50%;
+   left: 50%;
+   margin-top: 20px;
+   margin-left: 15px;
+}
+
+</style>
+
+<span style="font-size:18px;">
+<script type="text/javascript">
+  action = document.getElementById("myFormid").action="hdp06:8577/";
+</script></span>
+
+</html>
